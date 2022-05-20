@@ -9,7 +9,7 @@
 - [Pie Charts, Box Plots and Scatter Plots](https://github.com/marciomendonc4/Data_Visualization_With_Python/blob/main/DataVis_Pie_Scatter_Box_Plots.ipynb)
 
 
-#### PT/BR
+#### PT BR
 # Visualização de Dados Com Python
 
 ### Este é o módulo de Visualização de Dados do Curso Profissional de Análise de Dados da IBM
