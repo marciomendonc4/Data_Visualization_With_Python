@@ -7,6 +7,7 @@
 - [Line Charts](https://github.com/marciomendonc4/Data_Visualization_With_Python/blob/main/DataVisualization_Line_Charts.ipynb)
 - [Area Charts, Bar Charts and Histograms](https://github.com/marciomendonc4/Data_Visualization_With_Python/blob/main/DataVisualization_Line_Charts.ipynb)
 - [Pie Charts, Box Plots and Scatter Plots](https://github.com/marciomendonc4/Data_Visualization_With_Python/blob/main/DataVis_Pie_Scatter_Box_Plots.ipynb)
+- [Waffle Charts and Regression Plots](https://github.com/marciomendonc4/Data_Visualization_With_Python/blob/main/DataVisualization_Waffle_Regression_Plots.ipynb)
 
 #
 #### PT BR
@@ -18,3 +19,4 @@
 - [Gráficos de Linha](https://github.com/marciomendonc4/Data_Visualization_With_Python/blob/main/DataVisualization_Line_Charts.ipynb)
 - [Gráficos de Área, Barras e Histogramas](https://github.com/marciomendonc4/Data_Visualization_With_Python/blob/main/DataVisualization_Line_Charts.ipynb)
 - [Gráficos Pizza, Gráficos de Dispersão e Diagramas de Caixa](https://github.com/marciomendonc4/Data_Visualization_With_Python/blob/main/DataVis_Pie_Scatter_Box_Plots.ipynb)
+- [Gráficos Waffle e Gráficos de Regressão](https://github.com/marciomendonc4/Data_Visualization_With_Python/blob/main/DataVisualization_Waffle_Regression_Plots.ipynb)
